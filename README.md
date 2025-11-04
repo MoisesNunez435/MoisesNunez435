@@ -52,7 +52,6 @@ Busco integrarme en equipos de trabajo proactivos donde pueda **aportar valor co
 
 ### 📫 **Contacto**
 - 📧 **Correo:** mnunez1802@gmail.com  
-- 📱 **Teléfono:** +505 8966-2494  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/moises-david-nuñez-sediles-1ba513322
 - 🌎 **Ubicación:** Managua, Nicaragua  
 
