@@ -64,6 +64,5 @@ Busco integrarme en equipos de trabajo proactivos donde pueda **aportar valor co
 ---
 
 ⭐ *"El profesionalismo no se demuestra con palabras, sino con código bien hecho y soluciones que funcionan."*
-
-- 🧩 *“El código bien hecho no solo funciona, también se entiende.”*
+🧩 *“El código bien hecho no solo funciona, también se entiende.”*
 
