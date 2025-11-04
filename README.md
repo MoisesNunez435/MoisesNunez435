@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Moisés David Núñez Sediles  
 
-Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de Ingeniería (UNI)** y actualmente trabajo como **Agende de Soporte** para la empresa **PC GROUP**.  
+Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de Ingeniería (UNI)** y actualmente trabajo como **Agente de Soporte** para la empresa **PC GROUP**.  
 Me apasiona el desarrollo de software, la administración de plataformas tecnológicas y la optimización de procesos mediante soluciones digitales eficientes.  
 
 ---
