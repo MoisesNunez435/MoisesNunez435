@@ -39,7 +39,7 @@ Me apasiona el desarrollo de software, la administración de plataformas tecnol�
   <img src="https://img.shields.io/badge/Excel%20Básico--Intermedio-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Básico-Intermedio" />
   <img src="https://img.shields.io/badge/Instalación%20y%20Mantenimiento%20de%20PC-555555?style=for-the-badge&logo=windows&logoColor=white" alt="Mantenimiento de PC" />
   <img src="https://img.shields.io/badge/Windows%20y%20Office-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows y Office" />
-  <img src="https://img.shields.io/badge/Inglés%20Básico-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" alt="Inglés Básico" />
+  <img src="https://img.shields.io/badge/Inglés%20Básico-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" alt="Inglés Intermedio" />
 </p>
 
 📚 *Formación complementaria impartida por la Universidad Nacional de Ingeniería (UNI), Instituto ITSI y Cornestone.*
@@ -67,5 +67,5 @@ Busco integrarme en equipos de trabajo proactivos donde pueda **aportar valor co
 ---
 
 ⭐ *"El profesionalismo no se demuestra con palabras, sino con código bien hecho y soluciones que funcionan."*
-🧩 *“El código bien hecho no solo funciona, también se entiende.”*
+- 🧩 *“El código bien hecho no solo funciona, también se entiende.”*
 
