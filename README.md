@@ -32,14 +32,17 @@ Me apasiona el desarrollo de software, la administración de plataformas tecnol�
 
 ---
 
-### 🌟 **Cursos y Certificaciones**
-- Excel Avanzado — *Universidad Nacional de Ingeniería (2023)*  
-- Excel Básico-Intermedio — *Universidad Nacional de Ingeniería (2024)*  
-- Instalación y Mantenimiento de PC — *Instituto ITSI (2020)*  
-- Windows y Office — *Instituto ITSI (2016)*  
-- Inglés Intermedio — *Cornestone (2022)*  
+### 🧾 **Cursos y Certificaciones**
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel%20Avanzado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Avanzado" />
+  <img src="https://img.shields.io/badge/Excel%20Básico--Intermedio-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Básico-Intermedio" />
+  <img src="https://img.shields.io/badge/Instalación%20y%20Mantenimiento%20de%20PC-555555?style=for-the-badge&logo=windows&logoColor=white" alt="Mantenimiento de PC" />
+  <img src="https://img.shields.io/badge/Windows%20y%20Office-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows y Office" />
+  <img src="https://img.shields.io/badge/Inglés%20Básico-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" alt="Inglés Básico" />
+</p>
+
+📚 *Formación complementaria impartida por la Universidad Nacional de Ingeniería (UNI), Instituto ITSI y Cornestone.*
 
 ### 🤝 **Sobre mí**
 Soy una persona responsable, dedicada y comprometida con los principios de profesionalismo y mejora continua.  
