@@ -6,11 +6,29 @@ Me apasiona el desarrollo de software, la administración de plataformas tecnol�
 ---
 
 ### 🧩 **Habilidades Técnicas**
-- 💻 **Lenguajes de Programación:** JavaScript, C#  
-- 🗄️ **Bases de Datos:** SQL Server, PostgreSQL, MongoDB  
-- 🌐 **Frameworks y Tecnologías Web:** HTML, CSS, Node.js, .NET  
-- ⚙️ **Herramientas:** Crystal Reports, HelpShift, Exactus ERP  
-- 🧰 **Otras Competencias:** Excel avanzado, gestión de usuarios, soporte técnico, automatización de tareas  
+
+#### 💻 Lenguajes de Programación  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### 🗄️ Bases de Datos  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🌐 Frameworks y Tecnologías Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### ⚙️ Herramientas y Plataformas  
+![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-2C3E50?style=for-the-badge)
+![Reporting Services](https://img.shields.io/badge/Reporting%20Services-0078D7?style=for-the-badge&logo=Microsoft&logoColor=white)
+![HelpShift](https://img.shields.io/badge/HelpShift-1E90FF?style=for-the-badge)
+![Exactus ERP](https://img.shields.io/badge/Exactus%20ERP-00599C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
