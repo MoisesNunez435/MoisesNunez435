@@ -37,7 +37,7 @@ Me apasiona el desarrollo de software, la administración de plataformas tecnol�
 <p align="center">
   <img src="https://img.shields.io/badge/Excel%20Avanzado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Avanzado" />
   <img src="https://img.shields.io/badge/Excel%20Básico--Intermedio-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Básico-Intermedio" />
-  <img src="https://img.shields.io/badge/Instalación%20y%20Mantenimiento%20de%20PC-555555?style=for-the-badge&logo=windows&logoColor=white" alt="Mantenimiento de PC" />
+  <img src="https://img.shields.io/badge/Reparación%20y%20Mantenimiento%20de%20PC-555555?style=for-the-badge&logo=windows&logoColor=white" alt="Mantenimiento de PC" />
   <img src="https://img.shields.io/badge/Windows%20y%20Office-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows y Office" />
   <img src="https://img.shields.io/badge/Inglés%20Básico-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" alt="Inglés Intermedio" />
 </p>
